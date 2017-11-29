@@ -8,4 +8,4 @@ The dataset contains detailed information related to each crime record during 20
 
 After further exploring the crime report data of DC area, we were able to build three graphs, including a dot map that pins the crime location, a heat map that shows the frequency of crime, and an area chart that presents the counts of different crimes.
 
-![criminal_map](images.png)
+![criminal_map](dashboards.png)
